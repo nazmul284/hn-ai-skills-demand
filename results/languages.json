@@ -1,0 +1,35 @@
+{
+  "all posts": {
+    "n": 3811,
+    "Python": 24.8,
+    "TypeScript": 25.1,
+    "JavaScript": 12.7,
+    "Go": 6.2,
+    "Rust": 8.2,
+    "Java": 3.4,
+    "C++": 4.1,
+    "Ruby": 4.4
+  },
+  "any AI term": {
+    "n": 1311,
+    "Python": 35.7,
+    "TypeScript": 31.2,
+    "JavaScript": 14.6,
+    "Go": 5.6,
+    "Rust": 5.8,
+    "Java": 3.7,
+    "C++": 3.1,
+    "Ruby": 3.7
+  },
+  "AI agents": {
+    "n": 538,
+    "Python": 31.4,
+    "TypeScript": 32.2,
+    "JavaScript": 16.5,
+    "Go": 8.6,
+    "Rust": 5.4,
+    "Java": 2.6,
+    "C++": 1.5,
+    "Ruby": 4.1
+  }
+}

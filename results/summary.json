@@ -1,0 +1,199 @@
+{
+  "posts": 32924,
+  "threads": 70,
+  "first": "2021-01",
+  "last_complete": "2026-09",
+  "posts_per_window": {
+    "2021 (pre-ChatGPT)": 10285,
+    "2023": 4171,
+    "2024": 3926,
+    "2025": 4038,
+    "last 12 months": 3811
+  },
+  "skills": {
+    "_any_llm": {
+      "2021 (pre-ChatGPT)": 0.1,
+      "2023": 5.42,
+      "2024": 11.11,
+      "2025": 14.59,
+      "last 12 months": 15.09,
+      "count_last_12": 575
+    },
+    "Prompt engineering": {
+      "2021 (pre-ChatGPT)": 0.01,
+      "2023": 0.26,
+      "2024": 0.43,
+      "2025": 0.45,
+      "last 12 months": 0.73,
+      "count_last_12": 28
+    },
+    "RAG": {
+      "2021 (pre-ChatGPT)": 0.0,
+      "2023": 0.07,
+      "2024": 1.07,
+      "2025": 1.46,
+      "last 12 months": 2.26,
+      "count_last_12": 86
+    },
+    "Embeddings & vector search": {
+      "2021 (pre-ChatGPT)": 0.15,
+      "2023": 0.89,
+      "2024": 0.84,
+      "2025": 1.21,
+      "last 12 months": 1.34,
+      "count_last_12": 51
+    },
+    "AI agents": {
+      "2021 (pre-ChatGPT)": 0.01,
+      "2023": 0.36,
+      "2024": 1.45,
+      "2025": 9.51,
+      "last 12 months": 14.12,
+      "count_last_12": 538
+    },
+    "Evals": {
+      "2021 (pre-ChatGPT)": 0.0,
+      "2023": 0.0,
+      "2024": 0.2,
+      "2025": 0.5,
+      "last 12 months": 1.89,
+      "count_last_12": 72
+    },
+    "Fine-tuning & post-training": {
+      "2021 (pre-ChatGPT)": 0.01,
+      "2023": 0.79,
+      "2024": 1.81,
+      "2025": 2.01,
+      "last 12 months": 1.81,
+      "count_last_12": 69
+    },
+    "MCP": {
+      "2021 (pre-ChatGPT)": 0.0,
+      "2023": 0.0,
+      "2024": 0.0,
+      "2025": 0.27,
+      "last 12 months": 1.15,
+      "count_last_12": 44
+    },
+    "LLM frameworks (LangChain etc.)": {
+      "2021 (pre-ChatGPT)": 0.0,
+      "2023": 0.12,
+      "2024": 0.25,
+      "2025": 0.84,
+      "last 12 months": 1.63,
+      "count_last_12": 62
+    },
+    "Model APIs (OpenAI, Anthropic, Gemini)": {
+      "2021 (pre-ChatGPT)": 0.14,
+      "2023": 1.13,
+      "2024": 1.86,
+      "2025": 2.9,
+      "last 12 months": 4.64,
+      "count_last_12": 177
+    },
+    "Inference & model serving": {
+      "2021 (pre-ChatGPT)": 0.04,
+      "2023": 0.14,
+      "2024": 0.25,
+      "2025": 0.79,
+      "last 12 months": 0.94,
+      "count_last_12": 36
+    },
+    "Deep learning frameworks": {
+      "2021 (pre-ChatGPT)": 1.56,
+      "2023": 1.75,
+      "2024": 1.58,
+      "2025": 2.15,
+      "last 12 months": 2.26,
+      "count_last_12": 86
+    },
+    "MLOps": {
+      "2021 (pre-ChatGPT)": 0.88,
+      "2023": 1.03,
+      "2024": 1.22,
+      "2025": 1.98,
+      "last 12 months": 2.23,
+      "count_last_12": 85
+    },
+    "Computer vision": {
+      "2021 (pre-ChatGPT)": 1.64,
+      "2023": 2.42,
+      "2024": 2.24,
+      "2025": 1.91,
+      "last 12 months": 2.1,
+      "count_last_12": 80
+    },
+    "NLP": {
+      "2021 (pre-ChatGPT)": 1.44,
+      "2023": 1.46,
+      "2024": 0.87,
+      "2025": 0.97,
+      "last 12 months": 0.84,
+      "count_last_12": 32
+    },
+    "AI coding tools": {
+      "2021 (pre-ChatGPT)": 0.03,
+      "2023": 0.34,
+      "2024": 0.28,
+      "2025": 1.06,
+      "last 12 months": 3.75,
+      "count_last_12": 143
+    },
+    "AI safety & guardrails": {
+      "2021 (pre-ChatGPT)": 0.02,
+      "2023": 0.02,
+      "2024": 0.15,
+      "2025": 0.37,
+      "last 12 months": 1.13,
+      "count_last_12": 43
+    },
+    "Hugging Face / transformers": {
+      "2021 (pre-ChatGPT)": 0.16,
+      "2023": 0.74,
+      "2024": 0.79,
+      "2025": 1.14,
+      "last 12 months": 1.31,
+      "count_last_12": 50
+    },
+    "Speech & voice AI": {
+      "2021 (pre-ChatGPT)": 0.15,
+      "2023": 0.5,
+      "2024": 0.59,
+      "2025": 1.06,
+      "last 12 months": 0.81,
+      "count_last_12": 31
+    },
+    "Recommender systems": {
+      "2021 (pre-ChatGPT)": 0.23,
+      "2023": 0.26,
+      "2024": 0.2,
+      "2025": 0.3,
+      "last 12 months": 0.29,
+      "count_last_12": 11
+    },
+    "Classic ML (scikit-learn, XGBoost)": {
+      "2021 (pre-ChatGPT)": 0.46,
+      "2023": 0.55,
+      "2024": 0.31,
+      "2025": 0.25,
+      "last 12 months": 0.42,
+      "count_last_12": 16
+    },
+    "Tool calling & structured output": {
+      "2021 (pre-ChatGPT)": 0.13,
+      "2023": 0.05,
+      "2024": 0.1,
+      "2025": 0.2,
+      "last 12 months": 0.71,
+      "count_last_12": 27
+    },
+    "Context engineering": {
+      "2021 (pre-ChatGPT)": 0.0,
+      "2023": 0.0,
+      "2024": 0.0,
+      "2025": 0.15,
+      "last 12 months": 0.21,
+      "count_last_12": 8
+    }
+  }
+}

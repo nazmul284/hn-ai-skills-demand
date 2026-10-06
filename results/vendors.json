@@ -1,0 +1,18 @@
+{
+  "2023": {
+    "posts": 4171,
+    "OpenAI": 43,
+    "Anthropic/Claude (excl. Claude Code)": 7,
+    "Gemini": 0,
+    "Mistral": 0,
+    "Llama": 1
+  },
+  "last 12 months": {
+    "posts": 3811,
+    "OpenAI": 82,
+    "Anthropic/Claude (excl. Claude Code)": 127,
+    "Gemini": 3,
+    "Mistral": 9,
+    "Llama": 1
+  }
+}

@@ -1,0 +1,4 @@
+data/raw/
+data/posts.jsonl
+__pycache__/
+.DS_Store

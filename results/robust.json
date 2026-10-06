@@ -1,0 +1,30 @@
+{
+  "posts": 3811,
+  "companies": 2175,
+  "any_ai_term_share_posts": 34.4,
+  "by_company_share": {
+    "_any_llm": 16.41,
+    "Prompt engineering": 0.92,
+    "RAG": 2.71,
+    "Embeddings & vector search": 1.84,
+    "AI agents": 16.05,
+    "Evals": 2.62,
+    "Fine-tuning & post-training": 2.57,
+    "MCP": 1.52,
+    "LLM frameworks (LangChain etc.)": 2.3,
+    "Model APIs (OpenAI, Anthropic, Gemini)": 5.75,
+    "Inference & model serving": 1.15,
+    "Deep learning frameworks": 2.39,
+    "MLOps": 2.48,
+    "Computer vision": 2.02,
+    "NLP": 1.2,
+    "AI coding tools": 5.2,
+    "AI safety & guardrails": 1.47,
+    "Hugging Face / transformers": 1.01,
+    "Speech & voice AI": 1.06,
+    "Recommender systems": 0.46,
+    "Classic ML (scikit-learn, XGBoost)": 0.55,
+    "Tool calling & structured output": 1.06,
+    "Context engineering": 0.32
+  }
+}
